@@ -7,18 +7,16 @@
 In this folder, Python examples and exercises are shown. There are multiple folders here that containes each concept in Python programming.
 
 
-* Base_Python_Ex
+* 1- Data_Type
 
-* Conditional_Statements
+* 2- Data_Structure
 
-* Data_Structure
+* 3- Conditional_Statements
 
-* Data_Type
+* 4- Loops
 
-* Function
+* 5- Function
 
-* Loops
-
-* Math_Linear_Algebra
+* 6- Math_Linear_Algebra
 
 * Test_Package
