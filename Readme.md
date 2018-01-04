@@ -18,3 +18,7 @@ In this folder, Python examples and exercises are shown. There are multiple fold
 * Function
 
 * Loops
+
+* Math_Linear_Algebra
+
+* Test_Package
