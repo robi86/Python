@@ -19,4 +19,8 @@ In this folder, Python examples and exercises are shown. There are multiple fold
 
 * 6- Math_Linear_Algebra
 
+* 7- Numpy
+
+* 8- Pandas
+
 * Test_Package
